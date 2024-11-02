@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\nam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{868B34B2-1E98-4CB6-B663-818BCB9BFA69}|nam\\nam.csproj|c:\\users\\admin\\source\\repos\\nam\\nam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868B34B2-1E98-4CB6-B663-818BCB9BFA69}|nam\\nam.csproj|solutionrelative:nam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868B34B2-1E98-4CB6-B663-818BCB9BFA69}|nam\\nam.csproj|c:\\users\\admin\\source\\repos\\nam\\nam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{868B34B2-1E98-4CB6-B663-818BCB9BFA69}|nam\\nam.csproj|solutionrelative:nam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868B34B2-1E98-4CB6-B663-818BCB9BFA69}|nam\\nam.csproj|c:\\users\\admin\\source\\repos\\nam\\nam\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868B34B2-1E98-4CB6-B663-818BCB9BFA69}|nam\\nam.csproj|solutionrelative:nam\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868B34B2-1E98-4CB6-B663-818BCB9BFA69}|nam\\nam.csproj|c:\\users\\admin\\source\\repos\\nam\\nam\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{868B34B2-1E98-4CB6-B663-818BCB9BFA69}|nam\\nam.csproj|solutionrelative:nam\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868B34B2-1E98-4CB6-B663-818BCB9BFA69}|nam\\nam.csproj|c:\\users\\admin\\source\\repos\\nam\\nam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868B34B2-1E98-4CB6-B663-818BCB9BFA69}|nam\\nam.csproj|solutionrelative:nam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868B34B2-1E98-4CB6-B663-818BCB9BFA69}|nam\\nam.csproj|c:\\users\\admin\\source\\repos\\nam\\nam\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868B34B2-1E98-4CB6-B663-818BCB9BFA69}|nam\\nam.csproj|solutionrelative:nam\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\nam\\nam\\Program.cs",
+              "RelativeDocumentMoniker": "nam\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\nam\\nam\\Program.cs",
+              "RelativeToolTip": "nam\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:32:36.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\nam\\nam\\Form2.cs",
+              "RelativeDocumentMoniker": "nam\\Form2.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\nam\\nam\\Form2.cs",
+              "RelativeToolTip": "nam\\Form2.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwBsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:32:14.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\nam\\nam\\Form2.cs",
+              "RelativeDocumentMoniker": "nam\\Form2.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\nam\\nam\\Form2.cs [Design]",
+              "RelativeToolTip": "nam\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:30:03.043Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\nam\\nam\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "nam\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\nam\\nam\\Form1.Designer.cs",
+              "RelativeToolTip": "nam\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:23:46.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\nam\\nam\\Form1.cs",
+              "RelativeDocumentMoniker": "nam\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\nam\\nam\\Form1.cs",
+              "RelativeToolTip": "nam\\Form1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:21:50.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\nam\\nam\\Form1.cs",
+              "RelativeDocumentMoniker": "nam\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\nam\\nam\\Form1.cs [Design]",
+              "RelativeToolTip": "nam\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:21:46.753Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\nam\nam\bin\Debug\nam.exe.config
+C:\Users\Admin\source\repos\nam\nam\bin\Debug\nam.exe
+C:\Users\Admin\source\repos\nam\nam\bin\Debug\nam.pdb
+C:\Users\Admin\source\repos\nam\nam\obj\Debug\nam.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\nam\nam\obj\Debug\nam.Properties.Resources.resources
+C:\Users\Admin\source\repos\nam\nam\obj\Debug\nam.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\nam\nam\obj\Debug\nam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\nam\nam\obj\Debug\nam.exe
+C:\Users\Admin\source\repos\nam\nam\obj\Debug\nam.pdb
+C:\Users\Admin\source\repos\nam\nam\obj\Debug\nam.Form1.resources
+C:\Users\Admin\source\repos\nam\nam\obj\Debug\nam.Form2.resources
